@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Patchwork Phx event
+Patchwork Phx event teaching and learning the basics of GitHub.
